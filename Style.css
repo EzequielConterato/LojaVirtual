@@ -1,0 +1,7 @@
+:root {
+	--corFundo= #ebecee;
+}
+
+body {
+	background-color: var(--corFundo);
+}
