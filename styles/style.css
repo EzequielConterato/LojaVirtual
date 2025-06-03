@@ -1,0 +1,6 @@
+:root
+	--corFundo: #EBECEE;
+
+.body {
+	backgrownd-color: var(--corFundo);
+}
